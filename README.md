@@ -1,7 +1,7 @@
 Hi 👋 My name is Angel Lacret
 =============================
 
-Full Stack Developer and Product Manager
+Full Stack Developer and Technical Product Manager
 ----------------------------------------
 
 I build web, web3 and mobile applications with Top Developers, Low-Code strategies, Cloud-based architecture, Artificial Intelligence and blockchain technologies
@@ -12,6 +12,10 @@ I build web, web3 and mobile applications with Top Developers, Low-Code strategi
 * 🚀  I'm currently working on [Cobuild Lab](http://cobuildlab.com)
 * 🧠  I'm learning Solidity, Clarity and Hasura
 * 🤝  I'm open to collaborating on Web3 projects
+
+<div align="center">
+<img src="https://lh3.googleusercontent.com/qx23jALUKgzFsmWtMCftAXCZOAi1XL6_We5c4QOHS6Sy8ENIwGG5SDnSspyK3cwf3FYmRtjTCii5KQ1dSzTXwcmQeKLVooKLSHiwmLI=w328" align="center" height="328" width="328" />
+</div>  
 
 <a href="https://www.twitter.com/alacret" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/alacret?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
