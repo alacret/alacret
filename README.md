@@ -51,12 +51,30 @@ src="https://img.shields.io/github/followers/alacret?logo=github&style=for-the-b
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
 </p>
 
-### Socials
+## Connect with me  
+<div align="center">
+<a href="https://github.com/alacret" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/alacret" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/alacret" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-<p align="left"> <a href="https://www.github.com/alacret" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/alacret" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alacret" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/alacret" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/alacret" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-### Badges
+<br/>  
 
+## Github Stats  
 <b>My GitHub Stats</b>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alacret&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
+
+<br/>  
+
+### Badges
 
 <a href="http://www.github.com/alacret"><img src="https://github-readme-stats.vercel.app/api?username=alacret&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="alacret's GitHub stats" /></a>
 
