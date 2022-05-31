@@ -17,10 +17,15 @@ I build web, web3 and mobile applications with Top Developers, Low-Code strategi
 <img src="https://lh3.googleusercontent.com/qx23jALUKgzFsmWtMCftAXCZOAi1XL6_We5c4QOHS6Sy8ENIwGG5SDnSspyK3cwf3FYmRtjTCii5KQ1dSzTXwcmQeKLVooKLSHiwmLI=w328" align="center" height="328" width="328" />
 </div>  
 
+<br/>
+<div align="center">
+
 <a href="https://www.twitter.com/alacret" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/alacret?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/alacret" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/alacret?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+  </div>
+  
 ### Skills
 
 <p align="left">
@@ -71,19 +76,3 @@ src="https://img.shields.io/github/followers/alacret?logo=github&style=for-the-b
 <b>My GitHub Stats</b>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alacret&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
-
-<br/>  
-
-### Badges
-
-<a href="http://www.github.com/alacret"><img src="https://github-readme-stats.vercel.app/api?username=alacret&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="alacret's GitHub stats" /></a>
-
-<a href="http://www.github.com/alacret"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alacret&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/alacret"><img src="https://activity-graph.herokuapp.com/graph?username=alacret&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/alacret" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alacret&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/alacret/cobuildlab/pure-logger" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alacret&repo=cobuildlab/pure-logger&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/alacret/cobuildlab/react-simple-state" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alacret&repo=cobuildlab/react-simple-state&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
