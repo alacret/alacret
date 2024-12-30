@@ -25,8 +25,6 @@ src="https://img.shields.io/twitter/follow/alacret?logo=twitter&style=for-the-ba
 /></a><a href="https://www.github.com/alacret" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/alacret?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
   </div>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alacret&hide=css,scss,java,html&theme=tokyonight" align="center" height="328" width="328" />
   
   
 ### Skills
@@ -78,4 +76,4 @@ src="https://img.shields.io/github/followers/alacret?logo=github&style=for-the-b
 ## Github Stats  
 <b>My GitHub Stats</b>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alacret&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alacret&hide_border=true&layout=compact&hide=css,scss,java,html&theme=tokyonight" align="center" style="width: 100%" /></div>  
